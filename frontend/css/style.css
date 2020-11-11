@@ -1,0 +1,17 @@
+.home {
+  background: url('../images/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.data-container {
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.img-container img {
+  width: 75px;
+  height: 75px;
+}
