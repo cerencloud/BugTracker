@@ -28,6 +28,9 @@ const issueSchema = mongoose.Schema({
     ref: 'Project',
     required: true,
   },
+  dueData: {
+    type: Date,
+  },
   Comments: [
     {
       type: commentsSchema,

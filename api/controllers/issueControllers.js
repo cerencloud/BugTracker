@@ -52,6 +52,7 @@ const createIssue = async (req, res, next) => {
       description: req.body.description,
       status: req.body.status,
       Project_ID: req.body.Project_ID,
+      dueDate: req.body.dueDate,
     });
     return res.status(201).json({
       message: 'created successfully',

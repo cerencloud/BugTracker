@@ -40,6 +40,7 @@ const issueValidation = [
         throw 'The project you are trying to select does not found';
       }
     }),
+  body('dueDate').notEmpty().withMessage('please enter the due date of issue'),
 ];
 
 const statusValidation = [
