@@ -62,7 +62,7 @@ The end points shown as:-
 
 ## Roadmap
 
-The home of the roadmap for the Bug Tracker API. The purpose of this repository is to discuss and map out high level goals as well as provide insight into upcoming releases and planning. These high level goals are then broken down to invidual issues in the appropriate repository once planned for a release. See the open [issues](https://www.google.com) for a list of proposed features (and known issues).
+The home of the roadmap for the Bug Tracker API. The purpose of this repository is to discuss and map out high level goals as well as provide insight into upcoming releases and planning. These high level goals are then broken down to invidual issues in the appropriate repository once planned for a release.
 
 ## Author Info
 
